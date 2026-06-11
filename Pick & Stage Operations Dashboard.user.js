@@ -2,6 +2,8 @@
 // @name         Pick & Stage Operations Dashboard
 // @namespace    http://tampermonkey.net/
 // @version      8.4.4
+// @description  Dashboard Pick & Stage
+// @author       Pablllan
 // @match        https://ui.pvsgb.last-mile.amazon.dev/*
 // @run-at       document-idle
 // @grant        none
