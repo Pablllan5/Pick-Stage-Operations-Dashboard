@@ -5,6 +5,8 @@
 // @match        https://ui.pvsgb.last-mile.amazon.dev/*
 // @run-at       document-idle
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/Pablllan5/Pick-Stage-Operations-Dashboard/main/Pick%20%26%20Stage%20Operations%20Dashboard.user.js
+// @downloadURL  https://raw.githubusercontent.com/Pablllan5/Pick-Stage-Operations-Dashboard/main/Pick%20%26%20Stage%20Operations%20Dashboard.user.js
 // ==/UserScript==
 
 // ============================================================================
